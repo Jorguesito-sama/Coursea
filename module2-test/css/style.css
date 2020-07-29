@@ -2,8 +2,8 @@
   box-sizing: border-box;
   margin: 10px;
   padding: 0px;
-
-}
+  font-family: Arial, Helvetica, sans-serif;
+} 
 
 .text{
   text-align: bottom; 
