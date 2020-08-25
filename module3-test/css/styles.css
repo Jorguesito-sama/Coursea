@@ -1,0 +1,65 @@
+body{
+  font-family: 'Merriweather', serif;
+
+}
+
+#main-content h1{
+  text-align: center;
+}
+#header-nav{
+  background-color : #A2A2A2;
+  border: 0px;
+  border-radius: 0px;
+}
+
+.navbar-header h1{
+  font-family: 'Merriweather', serif;
+  margin-top: -10px;
+  color: #515151;
+}
+
+ .navbar-default .navbar-nav > li >a{
+  color: #515151 ;
+}
+
+.text{
+  background-color: #A2A2A2;
+}
+
+.text h2{
+  padding-top: 10px;
+  text-align: center;
+}
+
+.text p{
+  text-justify: auto;
+  padding: 10px;
+}
+/*************ONLY MEDIA QUERIES*************/
+@media (min-width: 1200px) {
+
+}
+
+/********** Medium devices only **********/
+@media (min-width: 992px) and (max-width: 1199px) {
+
+}
+
+/********** Small devices only **********/
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+
+/********** Extra small devices only **********/
+@media (max-width: 767px) {
+
+}
+
+
+/**********Super extra small devices**********/
+@media (max-width: 479px) {
+  
+}
+
+
+
